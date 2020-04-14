@@ -1,7 +1,7 @@
 package airport;
 
-import model.FlightPlanWrite;
 import model.FlightPlanRead;
+import model.FlightPlanWrite;
 
 public interface FlightPlanAccess
 {
