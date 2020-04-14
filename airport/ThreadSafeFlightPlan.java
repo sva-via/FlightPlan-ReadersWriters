@@ -1,7 +1,7 @@
 package airport;
-import model.*;
-
-import java.util.ArrayList;
+import model.FlightPlan;
+import model.FlightPlanRead;
+import model.FlightPlanWrite;
 
 public class ThreadSafeFlightPlan implements FlightPlanAccess
 {
